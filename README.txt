@@ -1,5 +1,4 @@
-Hello, my name is Brody Nelson, and this is my final project in CMP_SC 3380. The purpose of this project is to pose a 
-library management system for a library to store records of books, keep track of librarians, patrons and record the transactions
+The purpose of this project is to pose a library management system for a library to store records of books, keep track of librarians, patrons and record the transactions
 between books leaving and returning from the Library. This project utilizes MySQL for the DBMS and the application uses python
 to work as the backend to pose the necessary SQL queuries to retrieve the necessary data from the database. 
 
